@@ -1,6 +1,6 @@
 'use client'
 import Image from 'next/image'
-import { Heart, Send, MapPin, Calendar, Clock } from 'lucide-react'
+import { Heart, MapPin, Calendar, Clock } from 'lucide-react'
 import { Card, CardContent } from "@/components/ui/card"
 
 export default function Component() {
