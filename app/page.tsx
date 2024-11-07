@@ -51,7 +51,9 @@ export default function Component() {
 
             <div className="text-center">
               <Heart className="w-12 h-12 text-[#1B3059] mx-auto" />
-              <div className="text-center text-3xl font-serif mb-12">01-03-2025</div>
+              <div className="text-center text-sm md:text-3xl font-serif mb-12">
+                01-03-2025
+              </div>
             </div>
 
             {/* Diego */}
