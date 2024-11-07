@@ -96,7 +96,7 @@ export default function Component() {
                   </div>
                   <div className="flex items-center">
                     <MapPin className="w-5 h-5 mr-2" />
-                    <span>Santuario de Shoenstatt, Peñuelas</span>
+                    <span>Santuario de Schoenstatt, Peñuelas</span>
                   </div>
                   <div className="h-[320px] bg-gray-100 rounded-lg overflow-hidden">
                     <iframe
