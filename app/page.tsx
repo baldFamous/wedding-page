@@ -92,7 +92,7 @@ export default function Component() {
                   </div>
                   <div className="flex items-center">
                     <Clock className="w-5 h-5 mr-2" />
-                    <span>07:00 am - 09:00 am</span>
+                    <span>16:00</span>
                   </div>
                   <div className="flex items-center">
                     <MapPin className="w-5 h-5 mr-2" />
@@ -122,7 +122,7 @@ export default function Component() {
                   </div>
                   <div className="flex items-center">
                     <Clock className="w-5 h-5 mr-2" />
-                    <span>07:00 pm - 10:00 pm</span>
+                    <span>17:50</span>
                   </div>
                   <div className="flex items-center">
                     <MapPin className="w-5 h-5 mr-2" />
@@ -148,7 +148,6 @@ export default function Component() {
       {/* Footer */}
       <footer className="bg-gradient-to-b from-[#E9F0F3] to-[#ADC0BF] text-[#FFFFFF]"> {/* Fondo footer */}
         <div className="py-2">
-          <a href="https://devbastian.reflex.run/">por bastian💻</a>
         </div>
       </footer>
     </div>
